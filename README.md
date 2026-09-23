@@ -1,15 +1,12 @@
 <h1 align="center">Hi there 👋,Sindhu V P</h1>
 
 <h3 align="center">🚀 Passionate Information Science Engineer </h3>
-
 <p align="center" style="font-family:Arial, sans-serif; line-height:1.8;">
-  <span style="font-size:20px;">🎓 BE ISE @<strong>BGSIT</strong></span><br>
-  
+  <span style="font-size:20px;">🎓 BE ISE @<strong>BGSIT</strong></span><br>  
   <!-- Updated attractive line -->
   <span style="color:#ff1493; font-weight:bold; font-size:18px;">
     🚀 Growing smarter every day, shining brighter always ✨
-  </span><br><br>
-  
+  </span><br><br>  
  <p align="center" style="font-family:Arial, sans-serif; line-height:1.8;">
   <span style="font-size:18px;">👨‍💻 
     <span style="color:#f89820;">Java Developer</span> | 
