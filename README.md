@@ -1,4 +1,4 @@
-]<h1 align="center">Hi there 👋, I'm Sindhu V P</h1>
+<h1 align="center">Hi there 👋, I'm Sindhu V P</h1>
 
 <h3 align="center">🚀 Passionate Information Science Engineer</h3>
 
