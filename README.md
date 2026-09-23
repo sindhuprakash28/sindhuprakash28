@@ -14,6 +14,15 @@
     <span style="color:#ffd43b;">Python Developer</span>
   </span>
 </p>
+<p align="center" style="font-family:Arial, sans-serif; line-height:1.8;">
+  🚀 Passionate Information Science Engineer<br>
+  🎓 BE ISE @BGSIT<br>
+  🚀 Growing smarter every day, shining brighter always ✨<br><br>
+  👨‍💻 <span style="color:#f89820;">Java Developer</span> | 
+  <span style="color:#1e90ff;">Web Developer</span> | 
+  <span style="color:#ffd43b;">Python Developer</span>
+</p>
+
 
 
 
