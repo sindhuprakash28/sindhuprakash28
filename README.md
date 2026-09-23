@@ -3,12 +3,21 @@
 <h3 align="center">🚀 Passionate Information Science Engineer </h3>
 
 
-
-<p align="center">
-  🎓 BE ISE @<strong>BGSIT</strong><br>
-  💡 Int  
-  🌱 Always learning, always growing 🌟
-</p>
+<div style="text-align:center; font-family:Arial, sans-serif; line-height:1.8;">
+  <span style="font-size:20px;">🎓 BE ISE @<strong>BGSIT</strong></span><br>
+  <span style="color:#0073e6; font-weight:bold;">💡 Int</span><br>
+  
+  <!-- Updated attractive line -->
+  <span style="color:#ff1493; font-weight:bold; font-size:18px;">
+    🚀 Growing smarter every day, shining brighter always ✨
+  </span><br><br>
+  
+  <span style="font-size:18px;">👨‍💻 
+    <span style="color:#f89820;">Java Developer</span> | 
+    <span style="color:#1e90ff;">Web Developer</span> | 
+    <span style="color:#ffd43b;">Python Developer</span>
+  </span>
+</div>
 
 ---
 
