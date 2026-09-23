@@ -1,4 +1,4 @@
-## Hi there 👋
+<center>Hi there 👋</center> 
 
 <h1 align="center">Sindhu V P</h1>
 <h3 align="center">🚀 Passionate Information Science Engineer </h3>
