@@ -7,7 +7,7 @@
   <span style="color:#ff1493; font-weight:bold; font-size:18px;">
     🚀 Growing smarter every day, shining brighter always ✨
   </span><br><br>  
- <p align="center" style="font-family:Arial, sans-serif; line-height:1.8;">
+ <p align="center" style="font-family:Arial, sans-serif; line-height:1.5;">
   <span style="font-size:18px;">👨‍💻 
     <span style="color:#f89820;">Java Developer</span> | 
     <span style="color:#1e90ff;">Web Developer</span> | 
