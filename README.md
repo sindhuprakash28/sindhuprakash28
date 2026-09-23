@@ -4,7 +4,7 @@
 
 <div style="text-align:center; font-family:Arial, sans-serif; line-height:1.8;">
   <span style="font-size:20px;">🎓 BE ISE @<strong>BGSIT</strong></span><br>
-  <span style="color:#0073e6; font-weight:bold;">💡 Int</span><br>
+ 
   
   <!-- Updated attractive line, centered -->
   <span style="color:#ff1493; font-weight:bold; font-size:18px; display:inline-block;">
